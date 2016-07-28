@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "hi6sSeRj+oyvsd+VqeSW4x9ET4U=",
+			"path": "gopkg.in/urfave/cli.v1",
+			"revision": "1efa31f08b9333f1bd4882d61f9d668a70cd902e",
+			"revisionTime": "2016-06-28T05:30:56Z"
+		}
+	],
+	"rootPath": "github.com/brianm/csvcut"
+}
