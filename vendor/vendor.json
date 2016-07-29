@@ -4,15 +4,17 @@
 	"package": [
 		{
 			"checksumSHA1": "9lHATUHvechNbpylCJwZpUZHXxY=",
+			"origin": "github.com/brianm/csvcut/vendor/github.com/pkg/errors",
 			"path": "github.com/pkg/errors",
-			"revision": "01fa4104b9c248c8945d14d9f128454d5b28d595",
-			"revisionTime": "2016-06-13T02:17:47Z"
+			"revision": "7f1cd4c660775e0851a7870171dce825275cfd78",
+			"revisionTime": "2016-07-29T20:00:08Z"
 		},
 		{
 			"checksumSHA1": "hi6sSeRj+oyvsd+VqeSW4x9ET4U=",
+			"origin": "github.com/brianm/csvcut/vendor/gopkg.in/urfave/cli.v1",
 			"path": "gopkg.in/urfave/cli.v1",
-			"revision": "1efa31f08b9333f1bd4882d61f9d668a70cd902e",
-			"revisionTime": "2016-06-28T05:30:56Z"
+			"revision": "7f1cd4c660775e0851a7870171dce825275cfd78",
+			"revisionTime": "2016-07-29T20:00:08Z"
 		}
 	],
 	"rootPath": "github.com/brianm/csvcut"
