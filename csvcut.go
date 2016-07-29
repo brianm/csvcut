@@ -10,7 +10,6 @@ import (
 	"strings"
 	"strconv"
 	"fmt"
-	"log"
 )
 
 const Version = "0.1"
@@ -53,7 +52,6 @@ func (o options) String() string {
 }
 
 func run(ctx *cli.Context) error {
-	log.Print(ctx)
 	rawFields := ctx.String("f")
 	fields := []int{}
 	for _, f := range strings.Split(rawFields, ",") {
@@ -68,8 +66,6 @@ func run(ctx *cli.Context) error {
 		delimiter: comma,
 		fields: fields,
 	}
-
-	log.Print(opts)
 
 	if !ctx.Args().Present() {
 		// use stdin!
