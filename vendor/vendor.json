@@ -3,6 +3,12 @@
 	"ignore": "test",
 	"package": [
 		{
+			"checksumSHA1": "9lHATUHvechNbpylCJwZpUZHXxY=",
+			"path": "github.com/pkg/errors",
+			"revision": "01fa4104b9c248c8945d14d9f128454d5b28d595",
+			"revisionTime": "2016-06-13T02:17:47Z"
+		},
+		{
 			"checksumSHA1": "hi6sSeRj+oyvsd+VqeSW4x9ET4U=",
 			"path": "gopkg.in/urfave/cli.v1",
 			"revision": "1efa31f08b9333f1bd4882d61f9d668a70cd902e",
